@@ -1,6 +1,5 @@
 +++
 date = '2026-04-25T11:34:16+05:30'
-draft = false
 title = 'Who am I?'
 +++
 
