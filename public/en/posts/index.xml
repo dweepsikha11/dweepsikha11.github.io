@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kahani Tale</title>
-    <link>https://kahani-tale/en/posts/</link>
+    <link>http://localhost:1313/en/posts/</link>
     <description>Recent content in Posts on Kahani Tale</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 25 Apr 2026 11:34:16 +0530</lastBuildDate>
-    <atom:link href="https://kahani-tale/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am I?</title>
-      <link>https://kahani-tale/en/posts/my-first-post/</link>
+      <link>http://localhost:1313/en/posts/my-first-post/</link>
       <pubDate>Sat, 25 Apr 2026 11:34:16 +0530</pubDate>
-      <guid>https://kahani-tale/en/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;childhood-and-the-weight-of-worth&#34;&gt;Childhood and the Weight of Worth&lt;/h2&gt;&#xA;&lt;p&gt;Growing up, I was an underconfident kid, always anxious about my worth as a person. I was good at studies, often coming first in class. Mostly because when I came first, people clapped, showered compliments—external validation became my measure of worth.&lt;/p&gt;&#xA;&lt;p&gt;At the same time, I worked hard simply because I couldn’t stand holding back my best effort. Even today, this is a challenge: sometimes I don’t realize how much to put into work. If my superior isn’t satisfied, my anxiety spikes—losing sleep, eating badly, all for work.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;childhood-and-the-weight-of-worth&#34;&gt;Childhood and the Weight of Worth&lt;/h2&gt;&#xA;&lt;p&gt;Growing up, I was an underconfident kid, always anxious about my worth as a person. I was good at studies, often coming first in class. Mostly because when I came first, people clapped, showered compliments—external validation became my measure of worth.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

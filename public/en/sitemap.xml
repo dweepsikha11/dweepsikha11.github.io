@@ -2,21 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kahani-tale/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2026-04-25T11:34:16+05:30</lastmod>
   </url><url>
-    <loc>https://kahani-tale/en/posts/</loc>
+    <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2026-04-25T11:34:16+05:30</lastmod>
   </url><url>
-    <loc>https://kahani-tale/en/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/en/posts/my-first-post/</loc>
     <lastmod>2026-04-25T11:34:16+05:30</lastmod>
   </url><url>
-    <loc>https://kahani-tale/en/about/about/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
   </url><url>
-    <loc>https://kahani-tale/en/about/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
   </url><url>
-    <loc>https://kahani-tale/en/categories/</loc>
-  </url><url>
-    <loc>https://kahani-tale/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
   </url>
 </urlset>
