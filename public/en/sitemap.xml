@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://kahani-tale/en/</loc>
+    <lastmod>2026-04-25T11:34:16+05:30</lastmod>
+  </url><url>
+    <loc>https://kahani-tale/en/posts/</loc>
+    <lastmod>2026-04-25T11:34:16+05:30</lastmod>
+  </url><url>
+    <loc>https://kahani-tale/en/posts/my-first-post/</loc>
+    <lastmod>2026-04-25T11:34:16+05:30</lastmod>
+  </url><url>
+    <loc>https://kahani-tale/en/about/</loc>
+  </url><url>
+    <loc>https://kahani-tale/en/categories/</loc>
+  </url><url>
+    <loc>https://kahani-tale/en/tags/</loc>
+  </url>
+</urlset>
